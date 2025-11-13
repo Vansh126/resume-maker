@@ -1,5 +1,5 @@
 // Point BASE_URL to backend (port 5000)
-export const BASE_URL = "http://localhost:5000";
+export const BASE_URL = "https://resume-maker-lovat-eta.vercel.app/";
 
 // Define API paths consistently with leading slashes
 export const API_PATHS = {
