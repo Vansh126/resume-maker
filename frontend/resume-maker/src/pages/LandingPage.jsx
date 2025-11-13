@@ -6,7 +6,7 @@ import { useNavigate } from "react-router-dom";
 import { ProfileInfoCard } from "../components/Cards";
 import Login from "../components/Login";
 import Modal from "../components/Modal";
-import SignUp from "../components/SignUp";
+import SignUp from "../components/Signup";
 
 const LandingPage = () => {
     const { user } = useContext(UserContext);
